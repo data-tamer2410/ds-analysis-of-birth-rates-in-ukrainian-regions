@@ -1,4 +1,4 @@
-# Analysis of birth rates in ukrainian regions
+# Analysis of Birth Rates in Ukrainian Regions
 Analysis of birth rates in ukrainian regions.
 
 ## Overview
